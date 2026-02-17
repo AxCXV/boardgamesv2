@@ -1,4 +1,4 @@
-# Board Games Reviews 🎲
+# Board Games Reviews
 
 Aplicación full-stack para reseñas de juegos de mesa.
 
